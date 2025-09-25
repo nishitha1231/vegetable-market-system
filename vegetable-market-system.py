@@ -2,8 +2,8 @@
 import datetime
 
 # Admin credentials
-admin_name = 'kowsalya'
-admin_password = 'kowsalya@123'
+admin_name = 'Nishitha'
+admin_password = 'Nishitha@123'
 
 # Market data
 vegetable = ["potato", "mirchi", "tomato", "onion", "carrots", "radish"]
@@ -235,11 +235,11 @@ while True:
                 inv_id = f"TVG-INV{now.strftime('%H%M%S')}"
 
                 print("\n" + "=" * 50)
-                print("KOWSALYA VEGETABLES INVOICE")
+                print("NISHITHA VEGETABLES INVOICE")
                 print("Shop No. 1 , Kphb, jntu")
                 print("Hyderabad, Telangana, India")
-                print("Phone: 9963393915")
-                print("Email: balukowsalyareddy@gmail.com")
+                print("Phone: 8885940634")
+                print("Email: nishithathatiparthi8@gmail.com")
                 print("=" * 50)
                 print("Invoice No:", inv_id)
                 print("Date:", now.strftime("%d/%m/%Y %I:%M:%S %p"))
@@ -290,3 +290,4 @@ while True:
 
     else:
         print("Invalid option.")
+
